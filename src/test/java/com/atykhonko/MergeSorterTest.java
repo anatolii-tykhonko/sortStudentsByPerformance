@@ -1,4 +1,4 @@
-package atykhonko;
+package com.atykhonko;
 
 import org.junit.jupiter.api.Test;
 

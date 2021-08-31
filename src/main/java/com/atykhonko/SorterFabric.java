@@ -1,4 +1,4 @@
-package atykhonko;
+package com.atykhonko;
 
 public class SorterFabric {
     public static Sorter createSorter(int length) {

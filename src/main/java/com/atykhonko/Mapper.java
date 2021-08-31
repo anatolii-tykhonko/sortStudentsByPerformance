@@ -1,4 +1,4 @@
-package atykhonko;
+package com.atykhonko;
 
 import java.util.LinkedHashMap;
 import java.util.Map;

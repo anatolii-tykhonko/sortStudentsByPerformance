@@ -1,4 +1,4 @@
-package atykhonko;
+package com.atykhonko;
 
 import java.io.File;
 import java.io.IOException;

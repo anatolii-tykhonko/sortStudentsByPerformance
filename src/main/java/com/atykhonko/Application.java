@@ -1,4 +1,4 @@
-package atykhonko;
+package com.atykhonko;
 
 public class Application {
     public static void main(String[] args) {

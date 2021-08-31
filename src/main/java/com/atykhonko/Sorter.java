@@ -1,4 +1,4 @@
-package atykhonko;
+package com.atykhonko;
 
 
 public interface Sorter {

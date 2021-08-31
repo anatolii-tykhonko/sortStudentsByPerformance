@@ -1,4 +1,4 @@
-package atykhonko;
+package com.atykhonko;
 
 public class BubbleSorter implements Sorter {
     @Override
